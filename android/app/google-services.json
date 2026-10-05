@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471597065830",
+    "project_id": "dr-haripada",
+    "storage_bucket": "dr-haripada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471597065830:android:6fccce39345dd5cc7befa7",
+        "android_client_info": {
+          "package_name": "com.drharipada.appointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLavAe1HAAaryadDk0JzYmLHbhX3WQWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
