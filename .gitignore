@@ -46,3 +46,4 @@ app.*.map.json
 .gradle/
 android/.gradle/
 android/local.properties
+.firebase/
